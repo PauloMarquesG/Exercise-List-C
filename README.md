@@ -1,6 +1,6 @@
-# Exercise-List-C
+# Exercise-List-C <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
-Lista de exercícios desenvolvida durante o 2º semestre do curso de Análise e Desenvolvimento de Sistemas - FATEC SP
+📝 Lista de exercícios desenvolvida durante o 2º semestre do curso de Análise e Desenvolvimento de Sistemas - FATEC SP
 
 ---
 
